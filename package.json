@@ -27,6 +27,7 @@
   "cds": {
     "requires": {
       "auth": "mocked",
+      "db":"hana",
       "connectivity": true,
       "destinations": true,
       "html5-repo": true
